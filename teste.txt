@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 oioioioioioioioi
 Testando comandos
+=======
+Testando agora aqui comandos, vou mexer aqui
+>>>>>>> 2566e35... vou fazer fetch
 =======
 Testando agora aqui comandos, vou mexer aqui
 >>>>>>> 2566e35... vou fazer fetch
